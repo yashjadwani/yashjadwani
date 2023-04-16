@@ -25,7 +25,7 @@ Data Scientist & Data Analyst with MSc in Data Science | Proven experience in Ma
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashjadwani&repo=New-Ranking-system-for-T20-cricket&theme=buefy" />
 </a>
 <a href="https://github.com/yashjadwani/Car_Insuarance_claim_prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashjadwani&repo=Car_Insuarance_claim_prediction&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashjadwani&repo=Customer-churn&theme=buefy" />
 </a>
       </div>
       
