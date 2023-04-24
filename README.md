@@ -14,7 +14,7 @@ Data Scientist & Data Analyst with MSc in Data Science | Proven experience in Ma
 ---
 <div align="center">
     <a href="https://github.com/yashjadwani">
-    <img align="center" src=https://github-readme-stats.vercel.app/api?username=yashjadwani&show_icons=true&hide=issues&theme=buefy&count_private=true" alt="Yash Jadwani's github stats" />
+    <img align="center" src=https://github-readme-stats-sigma-five.vercel.app/api?username=yashjadwani&show_icons=true&hide=issues&theme=buefy&count_private=true" alt="Yash Jadwani's github stats" />
     </a>
 </div>
 
@@ -22,10 +22,10 @@ Data Scientist & Data Analyst with MSc in Data Science | Proven experience in Ma
 
 <div align="Center">
 <a href="https://github.com/yashjadwani/New-Ranking-system-for-T20-cricket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashjadwani&repo=New-Ranking-system-for-T20-cricket&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yashjadwani&repo=New-Ranking-system-for-T20-cricket&theme=buefy" />
 </a>
 <a href="https://github.com/yashjadwani/Car_Insuarance_claim_prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashjadwani&repo=Customer-churn&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yashjadwani&repo=Car_Insuarance_claim_prediction&theme=buefy" />
 </a>
       </div>
       
