@@ -13,7 +13,7 @@ Data Scientist & Data Analyst with MSc in Data Science | Proven experience in Ma
 
 ---
 <div align="center">
-    <a href="https://github.com/doshisimit">
+    <a href="https://github.com/yashjadwani">
     <img align="center" src=https://github-readme-stats.vercel.app/api?username=yashjadwani&show_icons=true&hide=issues&theme=buefy&count_private=true" alt="Yash Jadwani's github stats" />
     </a>
 </div>
