@@ -6,7 +6,7 @@ Data Scientist & Data Analyst with MSc in Data Science | Proven experience in Ma
 
 - 🔭 I’m currently working on Sports Analytics and Bank Marketing Campaign 
 - 🌱 I’m currently learning Data Science, Machine Learning, and DevOps to enhance my ML projects. 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 💬 Ask me about solving a problem with data and/or machine learning
 - 📫 How to reach me: I'm reachable via LinkedIn, Twitter and Mail.
 <!--- ⚡ Fun fact: -->
