@@ -1,12 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Yash Jadwani](https://www.linkedin.com/in/yash-jadwani/)
-
-AI Engineer & Lead Data Analyst | Building production LLM/RAG systems and data platforms | MSc Data Science (Distinction)
+<img src="https://raw.githubusercontent.com/yashjadwani/yashjadwani.github.io/main/public/og/profile-banner.svg" width="100%" alt="Yash Jadwani, AI Engineer and Lead Data Analyst" />
 
 - 🔭 I'm currently building AI-powered reporting and RAG/agentic systems, alongside leading the data function at P3RFORM
 - 🌱 Currently deepening my agentic AI and MLOps skills
 - 💬 Ask me about RAG pipelines, LLM fine-tuning, or turning messy data into a data platform from scratch
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/yash-jadwani/) or yash.jadwani1998@gmail.com
-- 🌐 Portfolio: [yashjadwani.github.io](https://yashjadwani.github.io)
+- 🌐 Portfolio: [yashjadwani.com](https://yashjadwani.com)
 
 ---
 
@@ -18,19 +16,25 @@ AI Engineer & Lead Data Analyst | Building production LLM/RAG systems and data p
 
 #### Featured Projects
 
-- 🤖 **[PDF Chat](https://pdfchat-dev-eight.vercel.app/)** — Hybrid RAG platform (BM25 + dense retrieval, RRF, BGE reranking, LangSmith tracing)
+- 🤖 **[PDF Chat](https://pdfchat-dev-eight.vercel.app/)** — Hybrid RAG platform, BM25 + dense retrieval, RRF, BGE reranking, LangSmith tracing
 - 🏋️ **[CoachAI](https://coach-ai-sepia.vercel.app/)** — QLoRA fine-tuned Llama 3.1 8B with LLM-as-judge evaluation and guardrails
 - ⚽ **[Football IQ](https://football-iq-rma.vercel.app/)** & **[WC2026 Control Centre](https://wc2026-control-centre.vercel.app/)** — ELO ratings, Monte Carlo simulation, XGBoost match prediction
+- 📜 **[Mythos Atlas](https://mythos-atlas-dev.vercel.app/)** — RAG platform for Indian and Greek mythology, verse-grounded citations
+- ✍️ **[Promptly](https://promptly-me-omega.vercel.app/)** — Generates and refines prompts for other AI tools
 - 🌍 **[World Cup Sweepstake](https://sweepstake.site)** — Multi-tenant SaaS with Supabase RLS and LLM-generated newsletters
 - 💳 **[Financial Fraud Detection](https://github.com/yashjadwani/Financial-Fraud-Analysis)** — Autoencoder anomaly detection, 25% recall improvement over XGBoost baseline
 - 🏏 **[T20 Cricket Player Ranking](https://github.com/yashjadwani/New-Ranking-system-for-T20-cricket)** — Published, MathSport International Conference, 92% accuracy
 
+🚧 **Upcoming:** Trading bot, CV tailor automation
+
+#### In Action
+
 <div align="Center">
-<a href="https://github.com/yashjadwani/New-Ranking-system-for-T20-cricket">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yashjadwani&repo=New-Ranking-system-for-T20-cricket&theme=buefy" />
+<a href="https://pdfchat-dev-eight.vercel.app/">
+  <img align="center" width="400" src="/projects/pdf-chat-4.png" alt="PDF Chat preview" />
 </a>
-<a href="https://github.com/yashjadwani/Financial-Fraud-Analysis">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yashjadwani&repo=Financial-Fraud-Analysis&theme=buefy" />
+<a href="https://football-iq-rma.vercel.app/">
+  <img align="center" width="400" src="/projects/football-iq-4.png" alt="Football IQ preview" />
 </a>
 </div>
 
@@ -49,7 +53,7 @@ AI Engineer & Lead Data Analyst | Building production LLM/RAG systems and data p
     <img src="https://img.shields.io/badge/-XGBoost-informational?style=for-the-badge&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Azure-informational?style=for-the-badge&logo=microsoftazure&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Databricks-informational?style=for-the-badge&logo=databricks&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-Power%20BI-informational?style=for-the-badge&logo=powerbi&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Power%20BI%20(PL--300)-informational?style=for-the-badge&logo=powerbi&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Supabase-informational?style=for-the-badge&logo=supabase&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Modal-informational?style=for-the-badge&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&color=4A3677">&nbsp;
@@ -61,7 +65,7 @@ AI Engineer & Lead Data Analyst | Building production LLM/RAG systems and data p
     <h2>🤝 Connect With Me 🤝</h2>
     <p>
     <a href="https://www.linkedin.com/in/yash-jadwani" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-    <a href="https://yashjadwani.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+    <a href="https://yashjadwani.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
     <a href="mailto:yash.jadwani1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp;
     </p>
 </div>
