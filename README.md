@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yashjadwani/yashjadwani.github.io/main/public/og/profile-banner.svg" width="100%" alt="Yash Jadwani, AI Engineer and Lead Data Analyst" />
+<img src="https://github.com/yashjadwani/yashjadwani.github.io/blob/86f4a796c473468d806f55fcfd6ee57263f95ef2/public/og/og-cover.png" width="100%" alt=" Yash Jadwani, AI Engineer and Lead Data Analyst" />
 
 - 🔭 I'm currently building AI-powered reporting and RAG/agentic systems, alongside leading the data function at P3RFORM
 - 🌱 Currently deepening my agentic AI and MLOps skills
@@ -8,22 +8,16 @@
 
 ---
 
-<div align="center">
-    <a href="https://github.com/yashjadwani">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashjadwani&show_icons=true&hide=issues&theme=buefy&count_private=true" alt="Yash Jadwani's github stats" />
-    </a>
-</div>
-
 #### Featured Projects
 
-- 🤖 **[PDF Chat](https://pdfchat-dev-eight.vercel.app/)** — Hybrid RAG platform, BM25 + dense retrieval, RRF, BGE reranking, LangSmith tracing
-- 🏋️ **[CoachAI](https://coach-ai-sepia.vercel.app/)** — QLoRA fine-tuned Llama 3.1 8B with LLM-as-judge evaluation and guardrails
-- ⚽ **[Football IQ](https://football-iq-rma.vercel.app/)** & **[WC2026 Control Centre](https://wc2026-control-centre.vercel.app/)** — ELO ratings, Monte Carlo simulation, XGBoost match prediction
-- 📜 **[Mythos Atlas](https://mythos-atlas-dev.vercel.app/)** — RAG platform for Indian and Greek mythology, verse-grounded citations
-- ✍️ **[Promptly](https://promptly-me-omega.vercel.app/)** — Generates and refines prompts for other AI tools
-- 🌍 **[World Cup Sweepstake](https://sweepstake.site)** — Multi-tenant SaaS with Supabase RLS and LLM-generated newsletters
-- 💳 **[Financial Fraud Detection](https://github.com/yashjadwani/Financial-Fraud-Analysis)** — Autoencoder anomaly detection, 25% recall improvement over XGBoost baseline
-- 🏏 **[T20 Cricket Player Ranking](https://github.com/yashjadwani/New-Ranking-system-for-T20-cricket)** — Published, MathSport International Conference, 92% accuracy
+- 🤖 **[PDF Chat](https://pdfchat-dev-eight.vercel.app/)** - Hybrid RAG platform, BM25 + dense retrieval, RRF, BGE reranking, LangSmith tracing
+- 🏋️ **[CoachAI](https://coach-ai-sepia.vercel.app/)** - QLoRA fine-tuned Llama 3.1 8B with LLM-as-judge evaluation and guardrails
+- ⚽ **[Football IQ](https://football-iq-rma.vercel.app/)** & **[WC2026 Control Centre](https://wc2026-control-centre.vercel.app/)** - ELO ratings, Monte Carlo simulation, XGBoost match prediction
+- 📜 **[Mythos Atlas](https://mythos-atlas-dev.vercel.app/)** - RAG platform for Indian and Greek mythology, verse-grounded citations
+- ✍️ **[Promptly](https://promptly-me-omega.vercel.app/)** - Generates and refines prompts for other AI tools
+- 🌍 **[World Cup Sweepstake](https://sweepstake.site)** - Multi-tenant SaaS with Supabase RLS and LLM-generated newsletters
+- 💳 **[Financial Fraud Detection](https://github.com/yashjadwani/Financial-Fraud-Analysis)** - Autoencoder anomaly detection, 25% recall improvement over XGBoost baseline
+- 🏏 **[T20 Cricket Player Ranking](https://github.com/yashjadwani/New-Ranking-system-for-T20-cricket)** - Published, MathSport International Conference, 92% accuracy
 
 🚧 **Upcoming:** Trading bot, CV tailor automation
 
