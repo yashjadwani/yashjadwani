@@ -25,11 +25,11 @@
 
 <div align="center">
 <a href="https://pdfchat-dev-eight.vercel.app/">
-  <img width="400" src="https://raw.githubusercontent.com/yashjadwani/yashjadwani.github.io/main/public/projects/pdf-chat-4.png" alt="PDF Chat preview" />
+  <img width="400" src="https://github.com/yashjadwani/yashjadwani.github.io/blob/86f4a796c473468d806f55fcfd6ee57263f95ef2/public/projects/pdf-chat-4.png" alt="PDF Chat preview" />
 </a>
 &nbsp;&nbsp;
 <a href="https://football-iq-rma.vercel.app/">
-  <img width="400" src="https://raw.githubusercontent.com/yashjadwani/yashjadwani.github.io/main/public/projects/football-iq-4.png" alt="Football IQ preview" />
+  <img width="400" src="https://github.com/yashjadwani/yashjadwani.github.io/blob/86f4a796c473468d806f55fcfd6ee57263f95ef2/public/projects/football-iq-4.png" alt="Football IQ preview" />
 </a>
 </div>
 
