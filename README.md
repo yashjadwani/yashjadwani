@@ -27,6 +27,7 @@
 <a href="https://pdfchat-dev-eight.vercel.app/">
   <img align="center" width="400" src="https://github.com/yashjadwani/yashjadwani.github.io/blob/86f4a796c473468d806f55fcfd6ee57263f95ef2/public/projects/pdf-chat-4.png" alt="PDF Chat preview" />
 </a>
+<div></div>
 <a href="https://football-iq-rma.vercel.app/">
   <img align="center" width="400" src="https://github.com/yashjadwani/yashjadwani.github.io/blob/86f4a796c473468d806f55fcfd6ee57263f95ef2/public/projects/football-iq-4.png" alt="Football IQ preview" />
 </a>
